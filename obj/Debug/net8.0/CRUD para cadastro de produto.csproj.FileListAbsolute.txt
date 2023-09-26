@@ -1,0 +1,15 @@
+C:\CRUD para cadastro de produto\bin\Debug\net8.0\CRUD para cadastro de produto.exe
+C:\CRUD para cadastro de produto\bin\Debug\net8.0\CRUD para cadastro de produto.deps.json
+C:\CRUD para cadastro de produto\bin\Debug\net8.0\CRUD para cadastro de produto.runtimeconfig.json
+C:\CRUD para cadastro de produto\bin\Debug\net8.0\CRUD para cadastro de produto.dll
+C:\CRUD para cadastro de produto\bin\Debug\net8.0\CRUD para cadastro de produto.pdb
+C:\CRUD para cadastro de produto\obj\Debug\net8.0\CRUD para cadastro de produto.csproj.AssemblyReference.cache
+C:\CRUD para cadastro de produto\obj\Debug\net8.0\CRUD para cadastro de produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\CRUD para cadastro de produto\obj\Debug\net8.0\CRUD para cadastro de produto.AssemblyInfoInputs.cache
+C:\CRUD para cadastro de produto\obj\Debug\net8.0\CRUD para cadastro de produto.AssemblyInfo.cs
+C:\CRUD para cadastro de produto\obj\Debug\net8.0\CRUD para cadastro de produto.csproj.CoreCompileInputs.cache
+C:\CRUD para cadastro de produto\obj\Debug\net8.0\CRUD para cadastro de produto.dll
+C:\CRUD para cadastro de produto\obj\Debug\net8.0\refint\CRUD para cadastro de produto.dll
+C:\CRUD para cadastro de produto\obj\Debug\net8.0\CRUD para cadastro de produto.pdb
+C:\CRUD para cadastro de produto\obj\Debug\net8.0\CRUD para cadastro de produto.genruntimeconfig.cache
+C:\CRUD para cadastro de produto\obj\Debug\net8.0\ref\CRUD para cadastro de produto.dll
